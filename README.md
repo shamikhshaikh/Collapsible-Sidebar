@@ -19,7 +19,7 @@ collapsible-sidebar/
 
 ```bash
 ### 1. Clone the repository
-git clone https://github.com/your-username/sidebar-project.git
+git clone https://github.com/shamikhshaikh/sidebar-project.git
 ### 2. Open in your editor
 Open the project folder in VS Code (or any editor of choice).
 ### 3. Run the project
